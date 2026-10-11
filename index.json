@@ -14,7 +14,7 @@
         "Science": "100%",
         "Hindi": "60%",
         "Drawing": "90%",
-        "G.k": "80%",
+        "G.k": "80%"
     },
     "2": {
         "name": "Priya Patel",
@@ -31,9 +31,9 @@
         "Science": "100%",
         "Hindi": "60%",
         "Drawing": "90%",
-        "G.k": "80%",
+        "G.k": "80%"
     },
-    "1003": {
+    "3": {
         "name": "Rohan Verma",
         "class_name": "Class 6 - Section C",
         "roll_no": "1003",
@@ -48,6 +48,6 @@
         "Science": "100%",
         "Hindi": "60%",
         "Drawing": "90%",
-        "G.k": "80%",
+        "G.k": "80%"
     }
 }
