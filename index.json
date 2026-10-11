@@ -7,14 +7,14 @@
         "paid_fees": "₹30,000",
         "pending_fees": "₹15,000",
         "classes_attended": "180 / 200",
-        "attendance_percentage": "90.00%"
-        "Maths": "50%"
-        "English": "20%"
-        "S.st": "10%"
-        "Science": "100%"
-        "Hindi": "60%"
-        "Drawing": "90%"
-        "G.k": "80%"
+        "attendance_percentage": "90.00%",
+        "Maths": "50%",
+        "English": "20%",
+        "S.st": "10%",
+        "Science": "100%",
+        "Hindi": "60%",
+        "Drawing": "90%",
+        "G.k": "80%",
     },
     "2": {
         "name": "Priya Patel",
@@ -24,14 +24,14 @@
         "paid_fees": "₹40,000",
         "pending_fees": "₹0",
         "classes_attended": "195 / 200",
-        "attendance_percentage": "97.50%"
-        "Maths": "50%"
-        "English": "20%"
-        "S.st": "10%"
-        "Science": "100%"
-        "Hindi": "60%"
-        "Drawing": "90%"
-        "G.k": "80%"
+        "attendance_percentage": "97.50%",
+        "Maths": "50%",
+        "English": "20%",
+        "S.st": "10%",
+        "Science": "100%",
+        "Hindi": "60%",
+        "Drawing": "90%",
+        "G.k": "80%",
     },
     "1003": {
         "name": "Rohan Verma",
@@ -41,13 +41,13 @@
         "paid_fees": "₹15,000",
         "pending_fees": "₹20,000",
         "classes_attended": "160 / 200",
-        "attendance_percentage": "80.00%"
-        "Maths": "50%"
-        "English": "20%"
-        "S.st": "10%"
-        "Science": "100%"
-        "Hindi": "60%"
-        "Drawing": "90%"
-        "G.k": "80%"
+        "attendance_percentage": "80.00%",
+        "Maths": "50%",
+        "English": "20%",
+        "S.st": "10%",
+        "Science": "100%",
+        "Hindi": "60%",
+        "Drawing": "90%",
+        "G.k": "80%",
     }
 }
