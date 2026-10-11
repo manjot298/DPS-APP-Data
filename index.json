@@ -1,5 +1,5 @@
 {
-    "1001": {
+    "1": {
         "name": "Gurveer Singh",
         "class_name": "Class 5th - Section A",
         "roll_no": "12",
@@ -8,8 +8,15 @@
         "pending_fees": "₹15,000",
         "classes_attended": "180 / 200",
         "attendance_percentage": "90.00%"
+        "Maths": "50%"
+        "English": "20%"
+        "S.st": "10%"
+        "Science": "100%"
+        "Hindi": "60%"
+        "Drawing": "90%"
+        "G.k": "80%"
     },
-    "1002": {
+    "2": {
         "name": "Priya Patel",
         "class_name": "Class 8 - Section B",
         "roll_no": "1002",
@@ -18,6 +25,13 @@
         "pending_fees": "₹0",
         "classes_attended": "195 / 200",
         "attendance_percentage": "97.50%"
+        "Maths": "50%"
+        "English": "20%"
+        "S.st": "10%"
+        "Science": "100%"
+        "Hindi": "60%"
+        "Drawing": "90%"
+        "G.k": "80%"
     },
     "1003": {
         "name": "Rohan Verma",
@@ -28,5 +42,12 @@
         "pending_fees": "₹20,000",
         "classes_attended": "160 / 200",
         "attendance_percentage": "80.00%"
+        "Maths": "50%"
+        "English": "20%"
+        "S.st": "10%"
+        "Science": "100%"
+        "Hindi": "60%"
+        "Drawing": "90%"
+        "G.k": "80%"
     }
 }
